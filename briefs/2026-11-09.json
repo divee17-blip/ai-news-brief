@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-09",
+  "range": "11월 7~8일 (주말·소식 적음, X 수집 실패·로그인 필요)",
+  "sources": {"X": 0, "웹": 2},
+  "headline": [
+    "힉스필드 5초 720p 기준 Kling 4.0 11.25크레딧 vs Seedance 2.5 35크레딧 — 같은 프롬프트 비교",
+    "주말 바이럴 AI 영상 템플릿: 사진 한 장으로 밈 영상 재현(MakeMeme 트렌드 목록)"
+  ],
+  "items": [
+    {
+      "category": "영상",
+      "title": "Kling 4.0 vs Seedance 2.5: 힉스필드 가격·같은 프롬프트 비교",
+      "summary": "11월 7일 기준 힉스필드에서 5초 720p 클립이 Kling 4.0은 11.25크레딧, Seedance 2.5는 35크레딧으로 Kling이 약 3분의 1 가격. 같은 프롬프트 1회 테스트에서 Kling 4.0은 BREW 로고를 읽을 수 있게 유지했고 Seedance 2.5는 720p에서 거의 읽히지 않았다고 함. 클링/씨댄스 중 고를 때 비용 참고용.",
+      "source": "Aliteq",
+      "url": "https://aliteq.com/kling-vs-seedance",
+      "posted": "2026-11-07"
+    },
+    {
+      "category": "영상",
+      "title": "11월 바이럴 AI 영상 트렌드 템플릿 목록 갱신",
+      "summary": "MakeMeme 트렌드 페이지가 11월 8일 갱신되며 Cat Human AI, Knight Cat AI, Dog Bohemian Rhapsody AI, Polar Bear 2026 AI 등 주말 유행 밈을 사진 한 장으로 재현하는 템플릿을 추가. 상업 서비스 목록이지만 지금 유행하는 AI 숏폼 포맷을 훑어보기에 쓸 만함.",
+      "source": "MakeMeme",
+      "url": "https://makememe.video/trends",
+      "posted": "2026-11-08"
+    }
+  ]
+}
