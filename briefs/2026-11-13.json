@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-13",
+  "range": "11월 11~12일 (소식 적음, X 수집 실패·로그인 필요)",
+  "sources": {"X": 0, "웹": 3},
+  "headline": [
+    "힉스필드 Seedance 2.5, 4K 지원 추가 (480p·720p·1080p에 더해)",
+    "힉스필드에 Seedance 2.5 Flash 추가 — 480p/720p 초안용 경량 버전",
+    "Adobe MAX 2026: Premiere·After Effects 등에 Creative Agent 기반 AI 어시스턴트(베타), Firefly Plan Mode·모델 선택기"
+  ],
+  "items": [
+    {
+      "category": "영상",
+      "title": "힉스필드 Seedance 2.5, 4K 해상도 지원",
+      "summary": "힉스필드 체인지로그에 따르면 Seedance 2.5에 4K가 추가돼 기존 480p·720p·1080p와 함께 선택할 수 있다. 최종 납품용 고해상도 컷을 Seedance로 바로 뽑을 수 있게 됐다.",
+      "source": "Higgsfield 체인지로그",
+      "url": "https://higgsfield.ai/creator-hub/changelog#seedance-2-5-now-supports-4k",
+      "posted": "2026-11-11"
+    },
+    {
+      "category": "영상",
+      "title": "힉스필드에 Seedance 2.5 Flash 추가",
+      "summary": "Seedance 2.5의 경량 버전으로 480p/720p 초안 생성용이다. 본생성 전에 구도·동작을 빠르게 테스트하는 용도로 쓸 만하다.",
+      "source": "Higgsfield 체인지로그",
+      "url": "https://higgsfield.ai/creator-hub/changelog#seedance-2-5-flash",
+      "posted": "2026-11-12"
+    },
+    {
+      "category": "영상",
+      "title": "Adobe MAX 2026: Creative Agent 기반 AI 어시스턴트와 Premiere 신기능",
+      "summary": "Creative Agent가 After Effects·Premiere·Illustrator·InDesign·Frame.io의 베타 AI 어시스턴트를 구동한다. Premiere에는 Color Mode, Generative Media Tool, Enhance Audio, Separate Crosstalk, Generative Remove(베타)가, Firefly에는 Plan Mode와 Model Selector가, Photoshop에는 Relight·Generative Restyle이 추가됐고 외부 에이전트가 CC 앱을 다루는 로컬 MCP 연동 프리뷰도 공개됐다. (발표는 11월 10일 MAX 현장)",
+      "source": "AWN",
+      "url": "https://awn.com/news/adobe-brings-ai-agents-after-effects-premiere-adobe-max-2026",
+      "posted": "2026-11-11"
+    }
+  ]
+}
