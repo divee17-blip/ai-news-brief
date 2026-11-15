@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-15",
+  "range": "11월 13~14일 (소식 적음, X 수집 실패·로그인 필요)",
+  "sources": {"X": 0, "웹": 3},
+  "headline": [
+    "Suno Bridge 베타 — 에이블톤 라이브 안에서 보컬·악기 스템 생성 (맥 전용, Premier)",
+    "힉스필드 GPU — GPU를 빌려 오픈소스 모델·내 LoRA 실행, 분 단위 과금",
+    "힉스필드 디스코드 3주년·30만 명 기념 3일 콘테스트, 50만 크레딧 상금"
+  ],
+  "items": [
+    {
+      "category": "사운드",
+      "title": "Suno Bridge 베타 출시 — 에이블톤 라이브에서 AI 스템 생성",
+      "summary": "Suno가 맥용 독립 앱 Suno Bridge 베타를 내놨습니다. 에이블톤 라이브 세션 안에서 Suno 모델로 보컬·악기 스템을 만들어 줍니다. 에이블톤 라이브 12 이상(맥)과 Premier 구독이 필요하고, 세션은 Suno 서버로 업로드되어 저작권 검사를 거칩니다.",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/suno-launches-bridge-beta-for-ai-stem-generation-in-ableton-live",
+      "posted": "2026-11-13"
+    },
+    {
+      "category": "영상",
+      "title": "힉스필드 GPU — 오픈소스 모델·내 LoRA 실행용 GPU 대여",
+      "summary": "힉스필드에서 GPU를 빌려 오픈소스 모델이나 직접 만든 LoRA를 돌릴 수 있게 됐습니다. 분 단위로 과금됩니다.",
+      "source": "Higgsfield 체인지로그",
+      "url": "https://higgsfield.ai/creator-hub/changelog#higgsfield-gpu",
+      "posted": "2026-11-13"
+    },
+    {
+      "category": "영상",
+      "title": "힉스필드 디스코드 3주년·30만 명 기념 콘테스트",
+      "summary": "디스코드 서버 3주년과 회원 30만 명을 기념한 3일짜리 콘테스트입니다. 상금은 50만 크레딧을 당첨자 50명이 나눠 받고, 발표는 11월 17일입니다.",
+      "source": "Higgsfield 체인지로그",
+      "url": "https://higgsfield.ai/creator-hub/changelog#discord-300k-contest",
+      "posted": "2026-11-13"
+    }
+  ]
+}
