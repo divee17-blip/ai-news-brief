@@ -1,0 +1,28 @@
+{
+ "date": "2026-11-17",
+ "range": "11월 15~16일 (소식 적음, X 수집 실패·로그인 필요)",
+ "sources": {"X": 0, "웹": 2},
+ "headline": [
+  "힉스필드 Short Drama Studio — 대본을 일관된 배역·장소의 짧은 시리즈로 (얼리 프리뷰)",
+  "A2E AI, 영상 151개·이미지 74개 모델을 한 계정에 묶은 AI Video Generator 출시",
+  "그 외 대상 기간(15~16일) 안에 날짜가 확인된 주요 발표는 찾지 못함"
+ ],
+ "items": [
+  {
+   "category": "영상",
+   "title": "힉스필드 Short Drama Studio 얼리 프리뷰",
+   "summary": "대본을 넣으면 같은 배역과 장소를 유지한 에피소드로 짧은 시리즈를 만들어 주는 스튜디오입니다. 스타일 15종, 480p 초안·720p·1080p를 지원하고, 얼리 프리뷰이며 데스크톱 전용입니다. 숏드라마형 연작을 만들 때 캐릭터 일관성 작업을 줄여 볼 수 있습니다.",
+   "source": "Higgsfield 체인지로그",
+   "url": "https://higgsfield.ai/creator-hub/changelog",
+   "posted": "2026-11-16"
+  },
+  {
+   "category": "영상",
+   "title": "A2E AI, 225개 영상·이미지 모델 통합 AI Video Generator 출시",
+   "summary": "A2E AI가 a2e.art에서 영상 151개·이미지 74개 모델을 한 계정으로 쓰는 AI Video Generator를 내놨습니다. Seedance 2.5, Kling 4.0, Wan 3.0, Veo, Nano Banana, GPT Image 등이 포함되고 Face Swap·Lip Sync·AI Avatars 등 도구도 있습니다. 구독 없이 실행당 크레딧 방식이며 생성 실패·시간 초과 시 크레딧을 돌려준다고 합니다(회사 보도자료).",
+   "source": "The Manila Times (GlobeNewswire)",
+   "url": "https://www.manilatimes.net/2026/11/15/tmt-newswire/globenewswire/a2e-ai-launches-ai-video-generator-with-all-in-one-video-and-image-models/2470261",
+   "posted": "2026-11-15"
+  }
+ ]
+}
