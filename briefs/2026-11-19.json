@@ -1,0 +1,44 @@
+{
+ "date": "2026-11-19",
+ "range": "11월 17~18일 (X 수집 실패·로그인 필요)",
+ "sources": {"X": 0, "웹": 4},
+ "headline": [
+  "Suno Visuals 출시 — 내 곡으로 최대 15초 뮤직비디오 클립 생성(립싱크 지원)",
+  "HeyGen Avatar 6 — 오디오 기반 맥락 인식 제스처, 컨텍스트 약 3초→30초, 네이티브 2K",
+  "Kling Image 4.0 Preview — 네이티브 8K·이미지 속 글자 최대 2,000자·한 프롬프트로 10장 세트"
+ ],
+ "items": [
+  {
+   "category": "영상",
+   "title": "Suno Visuals 출시 — 수노 곡을 15초 뮤직비디오 클립으로",
+   "summary": "수노가 Create 화면 안에 Visuals를 열었습니다. 최대 15초 클립을 곡 구조에 맞춰 만들고 가사 립싱크도 되며, 한 번에 2개 테이크가 나옵니다. 크레딧은 별도 판매(최소 2,500크레딧 $14.99)이고 웹 먼저, iOS·안드로이드는 몇 주 안에 나온다고 합니다. 모델은 MiniMax H3 기반 'H3 Move'라고 소개됐습니다.",
+   "source": "The AI Musicpreneur",
+   "url": "https://www.aimusicpreneur.com/ai-tools-news/suno-visuals-ai-music-video-generator-launch-h3-move/",
+   "posted": "2026-11-17"
+  },
+  {
+   "category": "영상",
+   "title": "HeyGen Avatar 6 — 오디오 기반·맥락 인식 아바타 모델",
+   "summary": "말의 톤에 맞는 제스처를 만드는 'Context-Aware Movement'를 내세운 아바타 모델입니다. 런타임 컨텍스트가 약 3초에서 30초로 10배 늘었고 네이티브 2K 출력, 립싱크 개선, 30초 영상만으로 아바타 생성이 됩니다. 기존 Personal Avatar는 자동 업그레이드되며 HeyGen 플랫폼과 API에서 바로 쓸 수 있습니다.",
+   "source": "PR Newswire (HeyGen 보도자료)",
+   "url": "https://www.prnewswire.com/news-releases/heygen-introduces-avatar-6-an-audio-driven-context-aware-ai-model-that-alleviates-repetitive-or-unnatural-motion-in-ai-generated-video-302942527.html",
+   "posted": "2026-11-17"
+  },
+  {
+   "category": "이미지",
+   "title": "Kling Image 4.0 Preview 발표 — 네이티브 8K·긴 글자 렌더링",
+   "summary": "클링이 이미지 모델 Kling Image 4.0을 발표했습니다. 네이티브 8K 생성, 이미지당 최대 2,000자 텍스트와 70종 이상 프리셋 폰트, 한국어 포함 다국어 글자, 한 프롬프트로 최대 10장의 연관 이미지 세트를 내세웁니다. 회사 보도자료(ACCESS Newswire)이며 가격·지역 정보는 없고, 일부 리셀러 페이지는 아직 '출시 예정'으로 표시합니다.",
+   "source": "Yahoo Finance (ACCESS Newswire)",
+   "url": "https://finance.yahoo.com/technology/ai/articles/kling-ai-launches-kling-image-163300875.html",
+   "posted": "2026-11-17"
+  },
+  {
+   "category": "영상",
+   "title": "Runway Labs, 'Diffusion-UI' 공개 — 실시간 모델이 화면 전체를 생성",
+   "summary": "런웨이 연구조직이 모든 픽셀을 실시간 모델이 생성하는 인터랙티브 소프트웨어 'Diffusion-UI'를 소개했습니다. 실시간 생성 영상이 UI 자체로 쓰이는 실험이라 런웨이의 실시간 월드 모델 방향을 볼 수 있습니다. (X 직접 수집이 아니라 Today in Generative Media 11/18호 경유로 확인)",
+   "source": "X @runwayml_labs",
+   "url": "https://x.com/runwayml_labs/status/2122727083600380392",
+   "posted": "2026-11-17"
+  }
+ ]
+}
