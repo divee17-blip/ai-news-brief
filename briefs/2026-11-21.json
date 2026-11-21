@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-21",
+  "range": "11월 19~20일 (X 수집 실패·로그인 필요)",
+  "sources": {"X": 0, "웹": 2},
+  "headline": [
+    "Ideogram 4.6 — 정밀 편집 모델, 4K 편집 $0.60·2K 생성 $0.10, 참조 이미지 최대 5장",
+    "Genie 4 출시 — 텍스트로 실시간 월드 편집·네이티브 오디오, AI Ultra 구독자부터"
+  ],
+  "items": [
+    {
+      "category": "이미지",
+      "title": "Ideogram 4.6 공개 — '정밀 편집'에 맞춘 새 모델",
+      "summary": "Ideogram이 4.6을 내놓으며 '정밀 편집의 새 기준'이라고 소개했습니다. OrcaRouter 비교 글 기준 가격은 High 품질 4K 편집 $0.60, 2K 생성 $0.10이고 참조 이미지는 최대 5장입니다. Rapidata 다단계 편집 보드에서 1,892점으로 1위라고 적혀 있는데, 같은 글에서 Nano Banana 2.1의 4K 출력은 $0.113이라 가격 차이가 큽니다.",
+      "source": "OrcaRouter",
+      "url": "https://www.orcarouter.ai/blog/ideogram-4-6-vs-nano-banana-2-1",
+      "posted": "2026-11-19"
+    },
+    {
+      "category": "영상",
+      "title": "Google Genie 4, Project Genie에서 사용 가능 (직전 브리핑 누락분)",
+      "summary": "구글이 월드 모델 Genie 4를 Project Genie로 AI Ultra 구독자에게 배포하기 시작했습니다. 텍스트 프롬프트로 날씨를 바꾸거나 캐릭터를 추가하는 실시간 편집과 실시간 네이티브 오디오가 들어갔습니다. Genie 3도 생성당 최대 3분(기존 60초) 세션, 360도 파노라마 이미지 기반 생성, 월드 체이닝이 추가됐고 AI Pro는 대기자 명단입니다. 11월 18일 글이라 지난 브리핑(17~18일)에서 빠져 이번에 넣었습니다.",
+      "source": "Google 블로그",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "posted": "2026-11-18"
+    }
+  ]
+}
