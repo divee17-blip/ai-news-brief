@@ -1,0 +1,7 @@
+{"date": "2026-11-23", "range": "11월 21~22일 (X 수집 실패·로그인 필요)", "sources": {"X": 0, "웹": 1},
+ "headline": ["AMD Nitro-P 공개 — VAE 디코더 없는 픽셀 공간 텍스트→이미지 모델, 가중치·학습 코드 공개"],
+ "items": [
+  {"category": "이미지", "title": "AMD Nitro-P — VAE 없이 픽셀 공간에서 바로 생성하는 텍스트→이미지 모델 (직전 브리핑 누락분)",
+   "summary": "AMD가 추론 파이프라인에서 VAE 디코더를 없앤 엔드투엔드 픽셀 공간 디퓨전 모델 Nitro-P를 공개하고 모델 가중치와 학습 코드를 함께 풀었다. MI300X 1장 기준 512px·배치 32에서 10.26 samples/s, 1스텝 증류 버전은 90.02 samples/s이며 GenEval은 512×512에서 0.88, 1024×1024에서 0.87로 보고됐다.",
+   "source": "AMD ROCm Blogs", "url": "https://rocm.blogs.amd.com/artificial-intelligence/nitro-p/README.html", "posted": "2026-11-20"}
+ ]}
