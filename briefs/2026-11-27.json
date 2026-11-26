@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-27",
+  "range": "11월 25~26일 (X 수집 실패·로그인 필요)",
+  "sources": {"X": 0, "웹": 4},
+  "headline": [
+    "힉스필드에 MAGI-2 공개 — 소리까지 함께 만드는 1080p·최대 30초 영상 모델",
+    "미드저니 니지 V8 공개 — 캐릭터 일관성 강화, 전용 편집 모델 탑재",
+    "인도 Chariot-1 TTS 공개 — 영어+인도 10개 언어 음성 생성"
+  ],
+  "items": [
+    {
+      "category": "영상",
+      "title": "Sand.ai MAGI-2, 힉스필드에서 사용 가능 — 소리 포함 1080p 최대 30초",
+      "summary": "Sand.ai의 영상 모델 MAGI-2가 11월 25일 힉스필드에 올라왔다. 1080p·25fps로 4~30초 클립을 대사·사운드와 함께 한 번에 생성하며, 출력 1초당 0.08달러(30초 2.40달러)로 소개됐다. 최상위 모델 가중치는 아직 호스팅 전용이고 오픈 공개 일정은 미정이며, 파라미터 수는 매체마다 400B/480B로 엇갈린다.",
+      "source": "Maverick Frame",
+      "url": "https://maverickframe.com/blog/sand-ai-magi-latest-version/",
+      "posted": "2026-11-25"
+    },
+    {
+      "category": "이미지",
+      "title": "미드저니 니지 V8 출시 — 애니메이션 모델 + 전용 편집 모델",
+      "summary": "미드저니가 애니메이션 모델 니지 V8을 공개했다. '정밀 프롬프팅'과 '일관된 캐릭터'를 내세우며, 전용 편집 모델로 글 지시 편집·참조 이미지 최대 4장·캔버스 확장이 된다. 다만 편집 모델은 타일 생성과는 아직 호환되지 않는다.",
+      "source": "DEV Community (Fathom News)",
+      "url": "https://dev.to/fathomnews/ai-image-maker-midjourney-launches-new-anime-model-with-built-in-editing-aao",
+      "posted": "2026-11-25"
+    },
+    {
+      "category": "사운드",
+      "title": "인도 Chariot-1 TTS 공개 — 영어+인도 10개 언어 음성 합성",
+      "summary": "인도 IndiaAI Mission 아래 Chariot AI의 Chariot-1 LLM과 Chariot-1 Text-to-Speech가 공개됐다. TTS는 영어와 힌디·벵골어·타밀어 등 인도 10개 언어로 음성을 생성한다. 다국어 내레이션 수요가 있다면 눈여겨볼 만하다.",
+      "source": "Telangana Today",
+      "url": "https://telanganatoday.com/govt-launches-indigenous-chariot-1-ai-foundation-models",
+      "posted": "2026-11-26"
+    },
+    {
+      "category": "사운드",
+      "title": "Murf, 스트리밍 음성인식 Finch 출시 — Falcon TTS와 합쳐 150ms 미만",
+      "summary": "Murf AI가 스트리밍 음성인식(STT) 모델 Finch를 내놓고 Voice of India 벤치마크 11개 인도 언어에서 1위라고 밝혔다. 최종 구간 출력까지 '50밀리초', 음성 분리 옵션을 제공한다. 자사 Falcon TTS와 묶으면 STT+TTS 합산 지연이 150ms 미만이라 실시간 음성 응답에 쓸 수 있다.",
+      "source": "The Wire (PTI)",
+      "url": "https://m.thewire.in/article/ptiprnews/murf-launches-streaming-speech-to-text-model-claims-top-spot-across-every-indian-language-ahead-of-elevenlabs-openai",
+      "posted": "2026-11-25"
+    }
+  ]
+}
